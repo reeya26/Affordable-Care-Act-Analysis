@@ -24,6 +24,12 @@ https://www.census.gov/content/dam/Census/library/publications/2020/demo/p60-271
 
 ###   Project name: Analyzing the Impact of the Affordable Care Act
 
+### Final Dashboard
+
+![ACA Dashboard](dashboard.png)
+
+
+
 ###  Concept:  Show the effects and effectiveness of ACA
 
 ## Goals:
